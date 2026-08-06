@@ -35,8 +35,9 @@ We believe that breaking down complex problems into manageable parts is key to b
 
 ### Session 2
 
-- **Problem:** Coming soon!
-- **File:** [Live Leetcode Sessions/Session2/](Live%20Leetcode%20Sessions/Session2/)
+- **Problem:** Longest Palindromic Substring
+- **File:** [Leetcode-Typescript/Session2/](Leetcode-Typescript/Session2/)
+- **Topics:** String manipulation, two-pointer technique, dynamic programming
 
 ---
 
