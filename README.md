@@ -187,6 +187,15 @@ All Pull Requests are reviewed to help everyone learn different approaches and i
 
 ---
 
+### Session 3
+
+- **Problem:** [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)
+- **File:** [Leetcode-Typescript/Session3/LeetCode-643-Easy/](Leetcode-Typescript/Session3/LeetCode-643-Easy/)
+- **Solutions:** Brute force and sliding window
+- **Topics:** Arrays, fixed-size sliding window, time and space complexity
+
+---
+
 ## 💪 Happy Coding!
 
 Remember:
