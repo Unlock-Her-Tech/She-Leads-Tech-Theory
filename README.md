@@ -1,4 +1,4 @@
-# She Leads Tech Practices (TypeScript & JavaScript)
+# She Leads Tech Theory (TypeScript & JavaScript)
 
 ## Overview
 
