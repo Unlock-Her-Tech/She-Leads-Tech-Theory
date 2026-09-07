@@ -2,12 +2,12 @@
 
 > **LEARN:** Understand the reasoning behind technical patterns through guided sessions, notes and worked examples.
 
-[![Part of She Leads Tech](https://img.shields.io/badge/She%20Leads%20Tech-LEARN-2563EB)](https://github.com/Unlock-Her-Tech)
+[![Part of She Leads Tech](https://img.shields.io/badge/She%20Leads%20Tech-LEARN-F97316)](https://github.com/Unlock-Her-Tech)
 [![Language](https://img.shields.io/badge/language-TypeScript-3178C6?logo=typescript&logoColor=white)](Leetcode-Typescript/)
 
 ## Where this repository fits
 
-**📘 Theory** → [🧩 Practice](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Practice) → [✅ Review](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Review)
+**📙 Theory** → [🧩 Practice](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Practice) → [✅ Review](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Review)
 
 Theory is the guided-learning part of She Leads Tech. Use it during a live session or when revisiting a concept. Each session introduces a pattern, works through one or more problems and compares solution approaches.
 

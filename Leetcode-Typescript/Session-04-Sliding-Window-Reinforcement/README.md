@@ -1,6 +1,8 @@
-# 📘 Theory Session 04 — Sliding-Window Reinforcement
+# 📙 Theory Session 04 — Sliding-Window Reinforcement
 
 > Reinforce fixed-length sliding windows by comparing brute force with an optimised solution.
+
+[![She Leads Tech Theory](https://img.shields.io/badge/Theory-LEARN-F97316)](../../README.md)
 
 [Theory home](../../README.md) → **Session 04** → [Maximum Subarray Sum](Problems/Maximum-Subarray-Sum/Problem.md)
 

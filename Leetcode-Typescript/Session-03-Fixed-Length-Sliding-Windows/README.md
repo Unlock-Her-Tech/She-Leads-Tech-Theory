@@ -1,6 +1,8 @@
-# 📘 Theory Session 03 — Fixed-Length Sliding Windows
+# 📙 Theory Session 03 — Fixed-Length Sliding Windows
 
 > Replace repeated subarray calculations with an efficient moving window.
+
+[![She Leads Tech Theory](https://img.shields.io/badge/Theory-LEARN-F97316)](../../README.md)
 
 [Theory home](../../README.md) → **Session 03** → [Maximum Average Subarray I](Problems/LeetCode-643-Maximum-Average-Subarray-I/Problem.md)
 

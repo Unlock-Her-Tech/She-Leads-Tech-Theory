@@ -1,6 +1,8 @@
-# 📘 Theory Session 02 — Palindromes
+# 📙 Theory Session 02 — Palindromes
 
 > Explore two different palindrome problems using frequency counting, sets and expanding pointers.
+
+[![She Leads Tech Theory](https://img.shields.io/badge/Theory-LEARN-F97316)](../../README.md)
 
 [Theory home](../../README.md) → **Session 02**
 

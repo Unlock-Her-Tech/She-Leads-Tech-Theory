@@ -1,6 +1,8 @@
-# 📘 Theory Session 01 — Maps and Frequency Counting
+# 📙 Theory Session 01 — Maps and Frequency Counting
 
 > Learn how key-value storage and character frequencies help solve string problems efficiently.
+
+[![She Leads Tech Theory](https://img.shields.io/badge/Theory-LEARN-F97316)](../../README.md)
 
 [Theory home](../../README.md) → **Session 01** → [Valid Anagram](Problems/LeetCode-242-Valid-Anagram/Problem.md)
 
