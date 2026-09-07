@@ -1,207 +1,105 @@
-# She Leads Tech Practices (TypeScript & JavaScript)
+# 📘 She Leads Tech — Theory
 
-## Overview
+> **LEARN:** Understand the reasoning behind technical patterns through guided sessions, notes and worked examples.
 
-**She Leads Tech Practices** is the technical learning initiative of **Unlock Her Tech**, dedicated to building problem-solving skills through hands-on coding sessions.
+[![Part of She Leads Tech](https://img.shields.io/badge/She%20Leads%20Tech-LEARN-2563EB)](https://github.com/Unlock-Her-Tech)
+[![Language](https://img.shields.io/badge/language-TypeScript-3178C6?logo=typescript&logoColor=white)](Leetcode-Typescript/)
 
-Every two weeks we solve a real LeetCode-style problem together, discuss multiple approaches, strengthen our algorithmic thinking, and build confidence for software engineering interviews.
+## Where this repository fits
 
----
+**📘 Theory** → [🧩 Practice](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Practice) → [✅ Review](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Review)
 
-## 🎯 Join Us
+Theory is the guided-learning part of She Leads Tech. Use it during a live session or when revisiting a concept. Each session introduces a pattern, works through one or more problems and compares solution approaches.
 
-For upcoming sessions and registration:
+When you can explain the idea in your own words, continue to **Practice** and apply it independently.
 
-👉 https://luma.com/sheleadstechpractice
+## What you will find here
 
----
+- Session overviews and learning goals
+- Problem statements and hints
+- Teaching notes and key concepts
+- Live-coded and worked solutions
+- Comparisons between simple and optimised approaches
+- Time and space complexity discussions
 
-## 💜 Our Approach
+Independent exercise sets belong in [Practice](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Practice). Quizzes, recall prompts and progress checks belong in [Review](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Review).
 
-> **Structure is the Solution to the Problem.**
+## TypeScript sessions
 
-Every session focuses on:
+| Session | Main topic | Problems | Open session |
+| ---: | --- | --- | --- |
+| 01 | Maps, frequency counting and Big O | Valid Anagram — LeetCode 242 | [Session 01](Leetcode-Typescript/Session-01-Maps-and-Frequency/) |
+| 02 | Palindromes, sets and two pointers | Longest Palindrome — LeetCode 409; Longest Palindromic Substring — LeetCode 5 | [Session 02](Leetcode-Typescript/Session-02-Palindromes/) |
+| 03 | Fixed-length sliding windows | Maximum Average Subarray I — LeetCode 643 | [Session 03](Leetcode-Typescript/Session-03-Fixed-Length-Sliding-Windows/) |
+| 04 | Sliding-window reinforcement | Maximum Subarray Sum | [Session 04](Leetcode-Typescript/Session-04-Sliding-Window-Reinforcement/) |
 
-- Understanding the problem
-- Identifying patterns and constraints
-- Building structured, scalable solutions
-- Comparing different approaches
-- Improving problem-solving habits
-- Learning collaboratively
+## Repository structure
 
----
+```text
+Leetcode-Typescript/
+└── Session-XX-Topic-Name/
+    ├── README.md
+    └── Problems/
+        └── Problem-Name/
+            ├── Problem.md
+            ├── Notes.md
+            ├── ExampleUsage.ts      # optional
+            └── Solutions/
+                └── ApproachName.ts
+```
 
-# 🚀 How to Contribute
+- The session `README.md` gives the learning goals, order and links for the whole session.
+- `Problems/` keeps one or more worked problems together.
+- `Problem.md` contains the prompt, examples, constraints and hints.
+- `Notes.md` explains the concepts, approach, complexity and takeaways.
+- `Solutions/` contains the code demonstrated or discussed in the session.
+- `ExampleUsage.ts` is optional and should appear only when runnable examples add value.
 
-We encourage everyone to contribute their own solutions!
+## How to use a session
 
-You can either **fork the repository** or **create your own branch** (if you have write access).
+1. Open the session README and review its learning goals.
+2. Read `Problem.md` without opening the solution files.
+3. Describe a simple approach and identify the likely data structure or pattern.
+4. Use `Notes.md` during or after the guided explanation.
+5. Compare the solution approaches and their complexity.
+6. Explain why the preferred approach works in your own words.
+7. Continue to the related [Practice](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Practice) material.
 
-Every contribution should be submitted through a **Pull Request** for review.
+## Get the repository
 
----
-
-## Option 1 — Fork the Repository
-
-1. Click **Fork** (top-right of the repository).
-2. Clone your fork locally.
+Clone the repository if you want a local copy of the session material:
 
 ```bash
-git clone https://github.com/<your-username>/She-Leads-Tech-Practices.git
+git clone https://github.com/Unlock-Her-Tech/She-Leads-Tech-Theory.git
+cd She-Leads-Tech-Theory
 ```
 
-3. Create a new branch following the naming convention:
+Use a fork if you want to propose improvements. Select **Fork** on GitHub, clone your fork and open a pull request when your changes are ready.
 
-```
-session-<session-number>-<your-name>
-```
+## Adding future sessions
 
-Example:
+Keep new sessions consistent with the existing structure:
 
-```
-session-1-ellie
-session-2-sarah
-session-3-amina
-```
+1. Use the next two-digit number and a descriptive topic name: `Session-05-Variable-Length-Sliding-Windows`.
+2. Add a session README with its goals, prerequisites, problems and next step.
+3. Create one folder inside `Problems/` for each worked problem.
+4. Keep prompts in `Problem.md`, teaching explanations in `Notes.md` and code in `Solutions/`.
+5. Name solution files by approach, such as `BruteForceSolution.ts` or `SlidingWindowSolution.ts`.
+6. Add the session to the table in this README.
+7. Test every code example and check every relative link before opening a pull request.
 
-4. Make your changes.
+Avoid folders named `final`, files named `copy`, or contributor names in filenames. Git already preserves earlier versions and authorship.
 
-5. Commit and push.
+## Our approach
 
-```bash
-git add .
-git commit -m "Add Session 1 solution"
-git push origin session-1-ellie
-```
+> **Structure is the solution to the problem.**
 
-6. Open a Pull Request to this repository.
+We focus on understanding the problem, recognising reusable patterns, comparing approaches and building confidence through collaborative learning.
+
+## Join a session
+
+See upcoming sessions and register at [She Leads Tech Practice](https://luma.com/sheleadstechpractice).
 
 ---
 
-## Option 2 — Create a Branch (Repository Collaborators)
-
-If you have been added as a collaborator:
-
-1. Create a new branch from **main**.
-
-```bash
-git checkout main
-git pull origin main
-git checkout -b session-1-your-name
-```
-
-Example:
-
-```
-session-1-ellie
-session-2-sarah
-```
-
-2. Solve the problem.
-
-3. Commit your changes.
-
-```bash
-git add .
-git commit -m "Completed Session 1 solution"
-```
-
-4. Push your branch.
-
-```bash
-git push origin session-1-your-name
-```
-
-5. Create a Pull Request.
-
----
-
-# 📌 Pull Request Naming
-
-Please use the following format:
-
-```
-Session-<Session Number>-<Problem Name>
-```
-
-Examples:
-
-```
-Session-1-Valid-Anagram
-
-Session-2-Two-Sum
-
-Session-3-Group-Anagrams
-```
-
----
-
-# 👩‍💻 Pull Request Checklist
-
-Before submitting your Pull Request:
-
-- ✅ Your branch follows the naming convention
-- ✅ Your solution compiles successfully
-- ✅ Your code is readable and well-formatted
-- ✅ Your solution is inside the correct session folder
-- ✅ You have tested your solution
-
----
-
-# 👀 Request a Review
-
-When creating your Pull Request:
-
-- Add **@ellietms** as the reviewer.
-- Wait for feedback before merging.
-- Make any requested changes if needed.
-
-All Pull Requests are reviewed to help everyone learn different approaches and improve problem-solving skills.
-
----
-
-## 📚 Session Resources
-
-### Session 1
-
-**Problem:** Valid Anagram
-
-**File**
-
-`Live Leetcode Sessions/Session1/IsAnagram.ts`
-
-**Topics**
-
-- Strings
-- Hash Maps
-- Character Frequency
-- Time & Space Complexity
-
----
-
-### Session 2
-
-- **Problem:** Longest Palindromic Substring
-- **File:** [Leetcode-Typescript/Session2/](Leetcode-Typescript/Session2/)
-- **Topics:** String manipulation, two-pointer technique, dynamic programming
-
----
-
-### Session 3
-
-- **Problem:** [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/)
-- **File:** [Leetcode-Typescript/Session3/LeetCode-643-Easy/](Leetcode-Typescript/Session3/LeetCode-643-Easy/)
-- **Solutions:** Brute force and sliding window
-- **Topics:** Arrays, fixed-size sliding window, time and space complexity
-
----
-
-## 💪 Happy Coding!
-
-Remember:
-
-> Don't just solve the problem—understand _why_ the solution works.
-
-Every Pull Request is an opportunity to learn something new, receive feedback, and become a stronger engineer.
-
-We can't wait to see your solutions! 💜
+Part of [Unlock Her Tech](https://github.com/Unlock-Her-Tech) · Learn the concept, practise the pattern, review your understanding.

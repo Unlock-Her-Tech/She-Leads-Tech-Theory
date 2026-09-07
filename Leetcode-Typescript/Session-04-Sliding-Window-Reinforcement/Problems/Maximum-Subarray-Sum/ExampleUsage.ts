@@ -1,6 +1,6 @@
 // UNCOMMENT ONE OF THE FOLLOWING LINES TO TEST
-// import { getMaxWindowSumUsingBruteForce as getMaxWindowSum } from "./LiveBruteForceSolution";
-// import { getMaxWindowSumOptimised as getMaxWindowSum } from "./LiveOptimisedSolution";
+// import { getMaxWindowSumUsingBruteForce as getMaxWindowSum } from "./Solutions/LiveBruteForceSolution";
+// import { getMaxWindowSumOptimised as getMaxWindowSum } from "./Solutions/LiveOptimisedSolution";
 
 const exampleOneMinuteCounts = [0, 1, 0, 3, 5, 11, 0, 0, 10, 0];
 
