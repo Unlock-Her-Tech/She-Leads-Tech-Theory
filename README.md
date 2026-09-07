@@ -1,4 +1,4 @@
-# 📘 She Leads Tech — Theory
+# 📙 She Leads Tech — Theory
 
 > **LEARN:** Understand the reasoning behind technical patterns through guided sessions, notes and worked examples.
 
