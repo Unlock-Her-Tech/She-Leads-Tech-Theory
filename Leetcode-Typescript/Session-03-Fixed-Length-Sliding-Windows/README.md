@@ -1,4 +1,4 @@
-# 📙 Theory Session 03 — Fixed-Length Sliding Windows
+# 🧡 Theory Session 03 — Fixed-Length Sliding Windows
 
 > Replace repeated subarray calculations with an efficient moving window.
 

@@ -1,4 +1,4 @@
-# 📙 Theory Session 02 — Palindromes
+# 🧡 Theory Session 02 — Palindromes
 
 > Explore two different palindrome problems using frequency counting, sets and expanding pointers.
 

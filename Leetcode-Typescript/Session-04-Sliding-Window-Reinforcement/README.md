@@ -1,4 +1,4 @@
-# 📙 Theory Session 04 — Sliding-Window Reinforcement
+# 🧡 Theory Session 04 — Sliding-Window Reinforcement
 
 > Reinforce fixed-length sliding windows by comparing brute force with an optimised solution.
 

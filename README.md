@@ -1,4 +1,4 @@
-# 📙 She Leads Tech — Theory
+# 🧡 She Leads Tech — Theory
 
 > **LEARN:** Understand the reasoning behind technical patterns through guided sessions, notes and worked examples.
 
@@ -7,7 +7,7 @@
 
 ## Where this repository fits
 
-**📙 Theory** → [🧩 Practice](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Practice) → [✅ Review](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Review)
+**🧡 Theory** → [🩷 Practice](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Practice) → [💚 Review](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Review)
 
 Theory is the guided-learning part of She Leads Tech. Use it during a live session or when revisiting a concept. Each session introduces a pattern, works through one or more problems and compares solution approaches.
 
@@ -24,14 +24,11 @@ When you can explain the idea in your own words, continue to **Practice** and ap
 
 Independent exercise sets belong in [Practice](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Practice). Quizzes, recall prompts and progress checks belong in [Review](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Review).
 
-## TypeScript sessions
+## Find a session
 
-| Session | Main topic | Problems | Open session |
-| ---: | --- | --- | --- |
-| 01 | Maps, frequency counting and Big O | Valid Anagram — LeetCode 242 | [Session 01](Leetcode-Typescript/Session-01-Maps-and-Frequency/) |
-| 02 | Palindromes, sets and two pointers | Longest Palindrome — LeetCode 409; Longest Palindromic Substring — LeetCode 5 | [Session 02](Leetcode-Typescript/Session-02-Palindromes/) |
-| 03 | Fixed-length sliding windows | Maximum Average Subarray I — LeetCode 643 | [Session 03](Leetcode-Typescript/Session-03-Fixed-Length-Sliding-Windows/) |
-| 04 | Sliding-window reinforcement | Maximum Subarray Sum | [Session 04](Leetcode-Typescript/Session-04-Sliding-Window-Reinforcement/) |
+Open the [TypeScript learning folder](Leetcode-Typescript/) and choose a numbered session. GitHub displays the session folders in order, and every session has its own README with learning goals, worked problems and next steps.
+
+The folder structure is the session index, so this main README does not need to be edited whenever a session or problem is added.
 
 ## Repository structure
 

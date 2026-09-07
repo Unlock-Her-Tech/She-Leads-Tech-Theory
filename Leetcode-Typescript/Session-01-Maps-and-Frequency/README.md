@@ -1,4 +1,4 @@
-# 📙 Theory Session 01 — Maps and Frequency Counting
+# 🧡 Theory Session 01 — Maps and Frequency Counting
 
 > Learn how key-value storage and character frequencies help solve string problems efficiently.
 
