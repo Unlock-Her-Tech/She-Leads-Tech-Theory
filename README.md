@@ -9,7 +9,7 @@
 
 **🧡 Theory** → [🩷 Practice](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Practice) → [💚 Review](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Review)
 
-Theory is the guided-learning part of She Leads Tech. Use it during a live session or when revisiting a concept. Each session introduces a pattern, works through one or more problems and compares solution approaches.
+Theory is the guided-learning part of She Leads Tech. Use it during a live session or whenever you are revisiting a concept. Each session introduces a pattern, works through one or more problems and compares solution approaches.
 
 When you can explain the idea in your own words, continue to **Practice** and apply it independently.
 
