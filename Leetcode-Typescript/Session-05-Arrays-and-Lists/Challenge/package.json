@@ -1,0 +1,7 @@
+{
+  "name": "Session-05-Arrays-and-Lists/Challenge",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^26.5.1"
+  }
+}
