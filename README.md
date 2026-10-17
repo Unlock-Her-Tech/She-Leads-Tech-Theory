@@ -62,16 +62,15 @@ Leetcode-Typescript/
 6. Explain why the preferred approach works in your own words.
 7. Continue to the related [Practice](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Practice) material.
 
-## Get the repository
+## Fork the repository
 
-Clone the repository if you want a local copy of the session material:
+Please [fork this repository](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Theory/fork) before working through the session material so you have your own copy on GitHub.
 
-```bash
-git clone https://github.com/Unlock-Her-Tech/She-Leads-Tech-Theory.git
-cd She-Leads-Tech-Theory
-```
+1. Select **Fork** at the top of the [Theory repository](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Theory).
+2. Choose your GitHub account and select **Create fork**.
+3. Work in your fork to save your notes, solutions and changes.
 
-Use a fork if you want to propose improvements. Select **Fork** on GitHub, clone your fork and open a pull request when your changes are ready.
+You can use **Sync fork** on GitHub to keep your copy up to date. To propose improvements, open a pull request from your fork to the original repository.
 
 ## Adding future sessions
 
