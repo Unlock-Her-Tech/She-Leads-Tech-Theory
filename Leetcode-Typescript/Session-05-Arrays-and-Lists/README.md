@@ -4,6 +4,10 @@
 
 [Theory home](../../README.md) → **Session 05** → [Simple List](Challenge/Setup.md)
 
+## Before you start
+
+Please [fork the Theory repository](https://github.com/Unlock-Her-Tech/She-Leads-Tech-Theory/fork) before starting this session so you can save your work in your own GitHub copy. See the [main README](../../README.md#fork-the-repository) for the steps.
+
 ## Learning goals
 
 By the end of this session, you should:
