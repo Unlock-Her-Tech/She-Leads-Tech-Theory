@@ -1,6 +1,4 @@
 // Session 08 - Queue (FIFO: First In, First Out)
-// Based on Section 21: Stacks + Queues, coding exercises 61 and 62.
-// Course: https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/
 // Implement enqueue and dequeue using a singly linked list, without an array.
 // first is the front, last is the back, and size is the number of nodes.
 // Both operations should take O(1) time.
