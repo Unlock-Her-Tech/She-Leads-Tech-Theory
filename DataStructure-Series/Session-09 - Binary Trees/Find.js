@@ -1,6 +1,4 @@
 // Session 09 - Binary Trees: Find in a Binary Search Tree
-// Based on Section 22: Binary Search Trees, coding exercise 65.
-// Course: https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/
 // This exercise uses the BST ordering rule, not an arbitrary binary tree.
 // Compare your work with Find_solution.js after trying the question.
 
