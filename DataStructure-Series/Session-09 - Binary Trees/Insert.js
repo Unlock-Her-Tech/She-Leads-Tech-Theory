@@ -1,6 +1,4 @@
 // Session 09 - Binary Trees: Insert into a Binary Search Tree
-// Based on Section 22: Binary Search Trees, coding exercise 64.
-// Course: https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/
 // A binary tree has at most two children per node. A BST also keeps smaller
 // values in the left subtree and larger values in the right subtree.
 // Compare your work with Insert_solution.js after trying the question.
