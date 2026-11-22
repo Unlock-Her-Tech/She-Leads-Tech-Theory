@@ -1,6 +1,4 @@
 // Session 08 - Stack (LIFO: Last In, First Out)
-// Based on Section 21: Stacks + Queues, coding exercises 59 and 60.
-// Course: https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/
 // Implement push and pop using a singly linked list, without an array.
 // first is the top, last is the bottom, and size is the number of nodes.
 // Both operations should take O(1) time.
